@@ -6,14 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 14 Nov 2023 12:28:29 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 16:06:22 +0100</lastBuildDate>
     <atom:link href="https://cisse17.github.io/Hugo_start/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tata</title>
+      <link>https://cisse17.github.io/Hugo_start/posts/tata/</link>
+      <pubDate>Tue, 14 Nov 2023 16:06:22 +0100</pubDate>
+      <guid>https://cisse17.github.io/Hugo_start/posts/tata/</guid>
+      <description>##Mon premier titre##</description>
+    </item>
     <item>
       <title>Toto</title>
       <link>https://cisse17.github.io/Hugo_start/posts/toto/</link>
       <pubDate>Tue, 14 Nov 2023 12:28:29 +0100</pubDate>
       <guid>https://cisse17.github.io/Hugo_start/posts/toto/</guid>
-      <description>Exactement</description>
+      <description>Exactement lorem ipsum to</description>
     </item>
   </channel>
 </rss>
