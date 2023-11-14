@@ -1,4 +1,4 @@
-baseURL = ' https://cisse17.github.io/Hugo_start/'
+baseURL = 'https://cisse17.github.io/Hugo_start/'
 languageCode = 'fr-fr'
 title = 'My New Hugo Site'
 theme = 'ananke'
