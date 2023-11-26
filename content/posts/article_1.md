@@ -2,7 +2,7 @@
 title: "Article_1"
 date: 2023-11-26T12:08:58+01:00
 tags: ['hugo', 'test']
-featured_image: "images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: " les hommes naissent égaux "
 ---
 # Premier Artcile

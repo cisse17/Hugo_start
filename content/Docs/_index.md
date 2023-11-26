@@ -4,6 +4,8 @@ date: 2023-11-26T12:34:52+01:00
 tags: ['docs', 'git']
 featured_image: ""
 description: "read me"
+type: page
+menu: main
 ---
 
 
