@@ -2,7 +2,7 @@
 title: "Documentation"
 date: 2023-11-26T12:34:52+01:00
 tags: ['docs', 'hugo']
-featured_image: "/images/notebook.jpg"
+featured_image: "/images/notebook_copy.jpg"
 description: "le read me du git"
 ---
 

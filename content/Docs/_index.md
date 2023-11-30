@@ -1,9 +1,9 @@
 ---
 title: "Docs"
 date: 2023-11-26T12:34:52+01:00
-tags: ['docs', 'git']
-featured_image: ""
-description: "read me"
+tags: ['docs',]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+description: "documentation sur hugo"
 type: page
 menu: main
 ---
@@ -113,6 +113,7 @@ To enable comments, add following to your config file:
   [params]
     commentoEnable = true
   ```
+
 
 ### Change the hero background
 
